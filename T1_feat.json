@@ -1,0 +1,8 @@
+{
+	"feature_set_name": "all_chamber_all_cycle",
+	"feature_list": [
+		"feat1_Step14_Avg",
+		"feat2_Step30_Avg",
+		"feat3_Step35_Avg"
+	]
+}
